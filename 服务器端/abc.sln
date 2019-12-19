@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abc server", "abc server\abc server.csproj", "{83E52A3B-0CF2-463D-B73D-02F14EBAFA10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abc client", "abc client\abc client.csproj", "{116200B7-7D36-4CEB-B9EF-39D5A644CBD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abc testclient", "abc testclient\abc testclient.csproj", "{B9CACF07-7814-4008-A407-9B2CEA7C1328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83E52A3B-0CF2-463D-B73D-02F14EBAFA10}.Debug|x86.ActiveCfg = Debug|x86
+		{83E52A3B-0CF2-463D-B73D-02F14EBAFA10}.Debug|x86.Build.0 = Debug|x86
+		{83E52A3B-0CF2-463D-B73D-02F14EBAFA10}.Release|x86.ActiveCfg = Release|x86
+		{83E52A3B-0CF2-463D-B73D-02F14EBAFA10}.Release|x86.Build.0 = Release|x86
+		{116200B7-7D36-4CEB-B9EF-39D5A644CBD0}.Debug|x86.ActiveCfg = Debug|x86
+		{116200B7-7D36-4CEB-B9EF-39D5A644CBD0}.Debug|x86.Build.0 = Debug|x86
+		{116200B7-7D36-4CEB-B9EF-39D5A644CBD0}.Release|x86.ActiveCfg = Release|x86
+		{116200B7-7D36-4CEB-B9EF-39D5A644CBD0}.Release|x86.Build.0 = Release|x86
+		{B9CACF07-7814-4008-A407-9B2CEA7C1328}.Debug|x86.ActiveCfg = Debug|x86
+		{B9CACF07-7814-4008-A407-9B2CEA7C1328}.Debug|x86.Build.0 = Debug|x86
+		{B9CACF07-7814-4008-A407-9B2CEA7C1328}.Release|x86.ActiveCfg = Release|x86
+		{B9CACF07-7814-4008-A407-9B2CEA7C1328}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

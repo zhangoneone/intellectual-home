@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/back2"
+    android:orientation="vertical" >
+
+
+
+    <TextView
+        android:id="@+id/Text0"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="开始..." />
+
+    <ScrollView
+        android:id="@+id/ScrollView01"
+        android:layout_width="match_parent"
+        android:layout_height="313dp"
+        android:layout_weight="3.67"
+        android:background="@drawable/back2"
+        android:scrollbars="vertical" >
+
+        <TextView
+            android:id="@+id/in"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/Edit0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_weight="1" >
+        </EditText>
+
+        <Button
+            android:id="@+id/Button17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onSendButtonClicked"
+            android:text="send" >
+        </Button>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+
+
+        <Button
+            android:id="@+id/Button13"
+            android:layout_width="76dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.02"
+            android:onClick="onConnectButtonClicked"
+            android:text="连接" />
+
+        <Button
+            android:id="@+id/Button14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.18"
+            android:onClick="onSaveButtonClicked"
+            android:text="保存" />
+
+        <Button
+            android:id="@+id/Button15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.15"
+            android:onClick="onClearButtonClicked"
+            android:text="清空" />
+
+        <Button
+            android:id="@+id/Button16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.17"
+            android:onClick="onClearButtonClicked"
+            android:text="退出" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/Button18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onConnectButtonClicked"
+            android:text="开始" />
+
+        <Button
+            android:id="@+id/Button19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onConnectButtonClicked"
+            android:text="命令" />
+
+        <Button
+            android:id="@+id/Button20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onConnectButtonClicked"
+            android:text="设置" />
+
+        <Button
+            android:id="@+id/Button21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onConnectButtonClicked"
+            android:text="帮助" />
+    </LinearLayout>
+
+</LinearLayout>

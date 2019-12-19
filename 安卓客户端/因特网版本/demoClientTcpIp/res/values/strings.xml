@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">控制客户端</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">退出</string>
+</resources>

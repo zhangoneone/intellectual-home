@@ -1,0 +1,24 @@
+d:\documents\visual studio 2010\Projects\ComTest1\ComTest1\bin\Debug\ComTest1.exe
+d:\documents\visual studio 2010\Projects\ComTest1\ComTest1\bin\Debug\ComTest1.pdb
+d:\documents\visual studio 2010\Projects\ComTest1\ComTest1\obj\x86\Debug\SerialportSample.SerialportSampleForm.resources
+d:\documents\visual studio 2010\Projects\ComTest1\ComTest1\obj\x86\Debug\SerialportSample.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\ComTest1\ComTest1\obj\x86\Debug\SerialportSample.csproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\ComTest1\ComTest1\obj\x86\Debug\ComTest1.exe
+d:\documents\visual studio 2010\Projects\ComTest1\ComTest1\obj\x86\Debug\ComTest1.pdb
+d:\documents\visual studio 2010\Projects\ComTest1\ComTest1\obj\x86\Debug\SerialportSample.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ComTest1\ComTest1\obj\x86\Debug\ComTest1.exe
+C:\Users\Administrator\Desktop\ComTest1\ComTest1\obj\x86\Debug\ComTest1.pdb
+C:\Users\Administrator\Desktop\ComTest1\ComTest1\bin\Debug\ComTest1.exe
+C:\Users\Administrator\Desktop\ComTest1\ComTest1\bin\Debug\ComTest1.pdb
+C:\Users\Administrator\Desktop\ComTest1\ComTest1\obj\x86\Debug\SerialportSample.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ComTest1\ComTest1\obj\x86\Debug\SerialportSample.SerialportSampleForm.resources
+C:\Users\Administrator\Desktop\ComTest1\ComTest1\obj\x86\Debug\SerialportSample.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ComTest1\ComTest1\obj\x86\Debug\SerialportSample.csproj.GenerateResource.Cache
+E:\挑战杯\6.24\电脑C#控制端\ComTest1\obj\x86\Debug\ComTest1.exe
+E:\挑战杯\6.24\电脑C#控制端\ComTest1\obj\x86\Debug\ComTest1.pdb
+E:\挑战杯\6.24\电脑C#控制端\ComTest1\bin\Debug\ComTest1.exe
+E:\挑战杯\6.24\电脑C#控制端\ComTest1\bin\Debug\ComTest1.pdb
+E:\挑战杯\6.24\电脑C#控制端\ComTest1\obj\x86\Debug\SerialportSample.csprojResolveAssemblyReference.cache
+E:\挑战杯\6.24\电脑C#控制端\ComTest1\obj\x86\Debug\SerialportSample.SerialportSampleForm.resources
+E:\挑战杯\6.24\电脑C#控制端\ComTest1\obj\x86\Debug\SerialportSample.Properties.Resources.resources
+E:\挑战杯\6.24\电脑C#控制端\ComTest1\obj\x86\Debug\SerialportSample.csproj.GenerateResource.Cache
